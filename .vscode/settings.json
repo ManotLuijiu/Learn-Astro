@@ -1,0 +1,9 @@
+{
+  "prettier.documentSelectors": ["**/*.astro"],
+  "[astro]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "stylelint.validate": ["css", "less", "postcss"],
+  "window.zoomLevel": 0,
+  "cSpell.ignoreWords": ["meansblue"]
+}
